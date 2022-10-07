@@ -5,3 +5,5 @@ print("\n...rebooting sensory system")
 print("...rebooting output motors")
 print("...rebooting hover Engine")
 print("\nSystem Online")
+print("I am a beep!")
+
